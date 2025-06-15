@@ -1,5 +1,5 @@
 import unittest
-from DipenSubba_02240309_A3_PA import (
+from DipenSubba_02240309_A3 import (
     BankAccount, PersonalAccount, BusinessAccount,
     InvalidInputError, TransferError, BankSystem
 )
